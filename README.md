@@ -3,8 +3,19 @@
 
 ## Description
 
-The inspiration for writing these heuristics as a wiki format was *Robert C. Martin* "Clean Code" . In turn, Robert Martin refers to another book "Refactoring" by *Martin Fowler*. I am immensely grateful to these people for their work.<br />
-<br />
+The inspiration for writing these heuristics as a wiki format was *Robert C. Martin* "Clean Code" . In turn, Robert Martin refers to another works: 
+- Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
+- The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
+- Design Patterns: Elements of Reusable Object Oriented Software, Gamma et al., Addison-Wesley, 1996.
+- Smalltalk Best Practice Patterns, Kent Beck, Prentice Hall, 1997. [Beck07]: Implementation Patterns, Kent Beck, Addison-Wesley, 2008.
+- Agile Software Development: Principles, Patterns, and Practices, Robert C. Martin, Prentice Hall, 2002.
+- Domain Driven Design, Eric Evans, Addison-Wesley, 2003.<br />
+
+I am immensely grateful to these people for their work.<br />
+
+
+### Usage
+
 The purpose of this knowledge library is to **structured** and **quickly access** various code smells.<br />
 I've shortened the information a bit so that it can be referred to as a hint and referenced without using a different context.<br />
 You can use links to specific rules or code smells in private correspondence with colleagues, in comments on pull requests, in forums, or anywhere else.<br />
@@ -15,8 +26,18 @@ I hope this project will be useful for you and I invite you to participate in di
 
 ## Описание
 
-Вдохновением для написания этих эвристических правил в виде вики послужила книга *Роберта Мартина* "Чистый код". В свою очередь Роберт Мартин ссылается на другую книгу "Рефакторинг" *Мартина Фаулера*. Я безмерно благодарен этим людям за их работу. <br />
-<br />
+Вдохновением для написания этих эвристических правил в виде вики послужила книга *Роберта Мартина* "Чистый код". В свою очередь Роберт Мартин ссылается на другие не менее значимые труды:
+- Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
+- The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
+- Design Patterns: Elements of Reusable Object Oriented Software, Gamma et al., Addison-Wesley, 1996.
+- Smalltalk Best Practice Patterns, Kent Beck, Prentice Hall, 1997. [Beck07]: Implementation Patterns, Kent Beck, Addison-Wesley, 2008.
+- Agile Software Development: Principles, Patterns, and Practices, Robert C. Martin, Prentice Hall, 2002.
+- Domain Driven Design, Eric Evans, Addison-Wesley, 2003.<br />
+
+Я безмерно благодарен этим людям за их работу.<br />
+
+### Применение
+
 Целью данной библиотеки знаний является **структурированный** и **быстрый доступ** к различным "запахам кода". <br />
 Я немного ужал информацию для того, что бы к ней можно было обратиться как к подсказке и ссылаться на нее не используя другой контекст.<br />
 Вы можете использовать ссылки  на конкретные правила или запахи кода в личных переписках с коллегами, в комменатриях к пул реквестам, на форумах или где либо ещё.<br />
