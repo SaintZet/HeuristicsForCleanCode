@@ -24,6 +24,11 @@ To the extent possible, these rules will be supported by code examples. And mayb
 <br />
 I hope this project will be useful for you and I invite you to participate in discussions, create issues and contribute your examples.
 
+### Important
+
+Clean code is not written by following a set of rules. You don’t become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines.
+
+
 ## Описание
 
 Вдохновением для написания этих эвристических правил в виде вики послужила книга *Роберта Мартина* "Чистый код". В свою очередь Роберт Мартин ссылается на другие не менее значимые труды:
@@ -45,3 +50,7 @@ I hope this project will be useful for you and I invite you to participate in di
 По мере возможности, данные правила будут подкрепляться примерами кода. И возможно личными наблюдениями. <br />
 <br />
 Я надеюсь вам этот проект пригодиться и приглашаю участвовать в обсуждениях, создании задач и контребьютить свои примеры. 
+
+### Важно
+
+Невозможно написать чистый код, действуя по списку правил. Нельзя стать мастером, изучив набор эвристик. Профессионализм и мастерство формируются на основе ценностей, которыми вы руководствуетесь в обучении.
