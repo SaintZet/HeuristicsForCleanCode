@@ -7,7 +7,8 @@ The inspiration for writing these heuristics as a wiki format was *Robert C. Mar
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
 - The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
 - Design Patterns: Elements of Reusable Object Oriented Software, Gamma et al., Addison-Wesley, 1996.
-- Smalltalk Best Practice Patterns, Kent Beck, Prentice Hall, 1997. [Beck07]: Implementation Patterns, Kent Beck, Addison-Wesley, 2008.
+- Smalltalk Best Practice Patterns, Kent Beck, Prentice Hall, 1997. 
+- Implementation Patterns, Kent Beck, Addison-Wesley, 2008.
 - Agile Software Development: Principles, Patterns, and Practices, Robert C. Martin, Prentice Hall, 2002.
 - Domain Driven Design, Eric Evans, Addison-Wesley, 2003.<br />
 
@@ -35,7 +36,8 @@ Clean code is not written by following a set of rules. You don’t become a soft
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
 - The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
 - Design Patterns: Elements of Reusable Object Oriented Software, Gamma et al., Addison-Wesley, 1996.
-- Smalltalk Best Practice Patterns, Kent Beck, Prentice Hall, 1997. [Beck07]: Implementation Patterns, Kent Beck, Addison-Wesley, 2008.
+- Smalltalk Best Practice Patterns, Kent Beck, Prentice Hall, 1997.
+- Implementation Patterns, Kent Beck, Addison-Wesley, 2008.
 - Agile Software Development: Principles, Patterns, and Practices, Robert C. Martin, Prentice Hall, 2002.
 - Domain Driven Design, Eric Evans, Addison-Wesley, 2003.<br />
 
