@@ -17,7 +17,7 @@ I am immensely grateful to these people for their work.<br />
 
 ### Usage
 
-The purpose of this knowledge library is to **structured** and **quickly access** various code smells.<br />
+The purpose of this knowledge library is to **structure** and **quickly access** various code smells.<br />
 I've shortened the information a bit so that it can be referred to as a hint and referenced without using a different context.<br />
 You can use links to specific rules or code smells in private correspondence with colleagues, in comments on pull requests, in forums, or anywhere else.<br />
 <br />
