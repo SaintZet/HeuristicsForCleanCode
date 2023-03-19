@@ -9,7 +9,7 @@
  * This method was written by John Doe on 1/1/2022 and has been tested extensively.
  * Please do not modify this method without consulting the author first.
  */
-public int DoCalculation(int a, int b)
+public int DoCalculation(int a, int b, int c)
 {
     // Code implementation here...
 }
