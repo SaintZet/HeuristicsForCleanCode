@@ -2,7 +2,6 @@
 // The comment is rambling and unclear.
 
 /**
-
 This method performs a calculation on two integers and returns the result.
 @param a the first integer for the calculation
 @param b the second integer for the calculation
