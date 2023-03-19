@@ -3,7 +3,6 @@
 
 /**
  * This method calculates the sum of two numbers.
- *
  * Note: Make sure to pass positive integers only.
  */
 public int CalculateSum(int a, int b)
