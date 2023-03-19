@@ -9,6 +9,6 @@ This method performs a calculation on two integers and returns the result.
 @return the result of the calculation
 @throws Exception if the input integers are invalid
 */
-public int doCalculation(int a, int b) throws Exception {
+public int doCalculation(int a, int b, int c) throws Exception {
 // Code implementation here...
 }
