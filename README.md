@@ -17,7 +17,7 @@ I am immensely grateful to these people for their work.<br />
 
 ### :bulb: Usage
 
-The purpose of this knowledge library is to **structure** and **quickly access** various code smells.<br />
+The purpose of this knowledge library is to **structure** and **quickly access** various "[code smell](https://en.wikipedia.org/wiki/Code_smell)".<br />
 I've shortened the information a bit so that it can be referred to as a hint and referenced without using a different context.<br />
 You can use links to specific rules or code smells in private correspondence with colleagues, in comments on pull requests, in forums, or anywhere else.<br />
 <br />
@@ -50,13 +50,13 @@ Clean code is not written by following a set of rules. You don’t become a soft
 
 ### :bulb: Применение
 
-Целью данной библиотеки знаний является **структурированный** и **быстрый доступ** к различным "запахам кода". <br />
+Целью данной библиотеки знаний является **структурированный** и **быстрый доступ** к различным "[запахам кода](https://ru.wikipedia.org/wiki/Код_с_запашком)". <br />
 Я немного ужал информацию для того, что бы к ней можно было обратиться как к подсказке и ссылаться на нее не используя другой контекст.<br />
 Вы можете использовать ссылки  на конкретные правила или запахи кода в личных переписках с коллегами, в комменатриях к пул реквестам, на форумах или где либо ещё.<br />
 <br />
-По мере возможности, данные правила будут подкрепляться примерами кода. И возможно личными наблюдениями. <br />
+По мере возможности, данные правила будут подкрепляться примерами кода. И возможно, личными наблюдениями. <br />
 <br />
-Я надеюсь вам этот проект пригодиться и приглашаю участвовать в обсуждениях, создании задач и контребьютить свои примеры. 
+Я надеюсь вам этот проект пригодиться и приглашаю участвовать в обсуждениях, создании issues и контребьютить свои примеры. 
 
 ### :warning: Важно
 
@@ -71,7 +71,7 @@ Clean code is not written by following a set of rules. You don’t become a soft
 ### :exclamation: *All heuristic rules on [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
 ### :information_source: Опис
 
-Натхненням для написання цих евристичних правил у вигляді вікі послужила книга Роберта Мартіна Чистий код. У свою чергу Роберт Мартін посилається на інші не менш значущі праці:
+Натхненням для написання цих евристичних правил у вигляді вікі послужила книга *Роберта Мартіна* "Чистий код". У свою чергу Роберт Мартін посилається на інші не менш важливі праці:
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
 - The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
 - Design Patterns: Elements of Reusable Object Oriented Software, Gamma et al., Addison-Wesley, 1996.
@@ -80,20 +80,20 @@ Clean code is not written by following a set of rules. You don’t become a soft
 - Agile Software Development: Principles, Patterns, and Practices, Robert C. Martin, Prentice Hall, 2002.
 - Domain Driven Design, Eric Evans, Addison-Wesley, 2003.<br />
 
-Я безмежно вдячний цим людям за їхню роботу.<br />
+Я безмежно вдячний цим людям за їх працю.<br />
 
 ### :bulb: Застосування
 
-Метою даної бібліотеки знань є **структурований** та **швидкий доступ** до різних "запах коду". <br />
+Метою даної бібліотеки знань є **структурований** та **швидкий доступ** до різних "[запахів коду](https://uk.wikipedia.org/wiki/Запахи_коду)". <br />
 Я трохи втиснув інформацію для того, щоб до неї можна було звернутися як до підказки та посилатися на неї не використовуючи інший контекст.<br />
 Ви можете використовувати посилання на конкретні правила або запахи коду в особистих листуваннях з колегами, у комменатріях до пул реквестів, на форумах або деінде.<br />
 <br />
-У міру можливості дані правила будуть підкріплюватися прикладами коду. І можливо особистими спостереженнями. <br />
+У міру можливості дані правила будуть підкріплюватися прикладами коду. І можливо, особистими спостереженнями. <br />
 <br />
-Я сподіваюся вам цей проект стати в нагоді і запрошую брати участь в обговореннях, створенні завдань і контреб'ютити свої приклади.
+Я сподіваюся вам цей проект статане в нагоді також запрошую брати участь в обговореннях, створенні issues та контреб'ютити свої приклади.
 
 ### :warning: Важливо
 
-Неможливо написати чистий код, діючи за списком правил. Не можна стати майстром, вивчивши набір евристиків. Професіоналізм та майстерність формуються на основі цінностей, якими ви керуєтеся у навчанні.
+Неможливо написати чистий код, діючи за списком правил. Не можна стати майстром, вивчивши набір еврістик. Професіоналізм та майстерність формуються на основі цінностей, якими ви керуєтеся у навчанні.
 
 </details>
