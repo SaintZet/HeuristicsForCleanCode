@@ -1,7 +1,7 @@
-# Heuristics for "Clear Code"
-:exclamation: *All heuristic rules on [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
+# Heuristics for "Clear Code" 
+## :exclamation: *All heuristic rules on [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
 
-## :information_source: Description
+### :information_source: Description
 
 The inspiration for writing these heuristics as a wiki format was *Robert C. Martin* "Clean Code" . In turn, Robert Martin refers to another works: 
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
@@ -34,7 +34,8 @@ Clean code is not written by following a set of rules. You don’t become a soft
   <summary><h2>Перевод <img src="https://media.giphy.com/media/lxDOajE5iIaxBmq2WB/giphy.gif" width="32"></h2></summary>
 <hr>
 
-## :information_source: Описание
+### :exclamation: *All heuristic rules on [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
+### :information_source: Описание
 
 Вдохновением для написания этих эвристических правил в виде вики послужила книга *Роберта Мартина* "Чистый код". В свою очередь Роберт Мартин ссылается на другие не менее значимые труды:
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
@@ -67,7 +68,8 @@ Clean code is not written by following a set of rules. You don’t become a soft
   <summary><h2>Переклад <img src="https://media.giphy.com/media/hVUK7LtvxX6KNYydAb/giphy.gif" width="30"></h2></summary>
 <hr>
 
-## :information_source: Опис
+### :exclamation: *All heuristic rules on [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
+### :information_source: Опис
 
 Натхненням для написання цих евристичних правил у вигляді вікі послужила книга Роберта Мартіна Чистий код. У свою чергу Роберт Мартін посилається на інші не менш значущі праці:
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
