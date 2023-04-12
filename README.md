@@ -1,7 +1,7 @@
 # Heuristics for "Clear Code"
-<sub> *All heuristic rules are on [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* </sub>
+:exclamation: *All heuristic rules on [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
 
-## Description
+## :information_source: Description
 
 The inspiration for writing these heuristics as a wiki format was *Robert C. Martin* "Clean Code" . In turn, Robert Martin refers to another works: 
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
@@ -15,7 +15,7 @@ The inspiration for writing these heuristics as a wiki format was *Robert C. Mar
 I am immensely grateful to these people for their work.<br />
 
 
-### Usage
+### :bulb: Usage
 
 The purpose of this knowledge library is to **structure** and **quickly access** various code smells.<br />
 I've shortened the information a bit so that it can be referred to as a hint and referenced without using a different context.<br />
@@ -25,12 +25,12 @@ To the extent possible, these rules will be supported by code examples. And mayb
 <br />
 I hope this project will be useful for you and I invite you to participate in discussions, create issues and contribute your examples.
 
-### Important
+### :warning: Important
 
 Clean code is not written by following a set of rules. You don’t become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines.
 
 
-## Описание
+## :information_source: Описание
 
 Вдохновением для написания этих эвристических правил в виде вики послужила книга *Роберта Мартина* "Чистый код". В свою очередь Роберт Мартин ссылается на другие не менее значимые труды:
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
@@ -43,7 +43,7 @@ Clean code is not written by following a set of rules. You don’t become a soft
 
 Я безмерно благодарен этим людям за их работу.<br />
 
-### Применение
+### :bulb: Применение
 
 Целью данной библиотеки знаний является **структурированный** и **быстрый доступ** к различным "запахам кода". <br />
 Я немного ужал информацию для того, что бы к ней можно было обратиться как к подсказке и ссылаться на нее не используя другой контекст.<br />
@@ -53,6 +53,33 @@ Clean code is not written by following a set of rules. You don’t become a soft
 <br />
 Я надеюсь вам этот проект пригодиться и приглашаю участвовать в обсуждениях, создании задач и контребьютить свои примеры. 
 
-### Важно
+### :warning: Важно
 
 Невозможно написать чистый код, действуя по списку правил. Нельзя стать мастером, изучив набор эвристик. Профессионализм и мастерство формируются на основе ценностей, которыми вы руководствуетесь в обучении.
+
+## :information_source: Опис
+
+Натхненням для написання цих евристичних правил у вигляді вікі послужила книга Роберта Мартіна Чистий код. У свою чергу Роберт Мартін посилається на інші не менш значущі праці:
+- Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
+- The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
+- Design Patterns: Elements of Reusable Object Oriented Software, Gamma et al., Addison-Wesley, 1996.
+- Smalltalk Best Practice Patterns, Kent Beck, Prentice Hall, 1997.
+- Implementation Patterns, Kent Beck, Addison-Wesley, 2008.
+- Agile Software Development: Principles, Patterns, and Practices, Robert C. Martin, Prentice Hall, 2002.
+- Domain Driven Design, Eric Evans, Addison-Wesley, 2003.<br />
+
+Я безмежно вдячний цим людям за їхню роботу.<br />
+
+### :bulb: Застосування
+
+Метою даної бібліотеки знань є **структурований** та **швидкий доступ** до різних "запах коду". <br />
+Я трохи втиснув інформацію для того, щоб до неї можна було звернутися як до підказки та посилатися на неї не використовуючи інший контекст.<br />
+Ви можете використовувати посилання на конкретні правила або запахи коду в особистих листуваннях з колегами, у комменатріях до пул реквестів, на форумах або деінде.<br />
+<br />
+У міру можливості дані правила будуть підкріплюватися прикладами коду. І можливо особистими спостереженнями. <br />
+<br />
+Я сподіваюся вам цей проект стати в нагоді і запрошую брати участь в обговореннях, створенні завдань і контреб'ютити свої приклади.
+
+### :warning: Важливо
+
+Неможливо написати чистий код, діючи за списком правил. Не можна стати майстром, вивчивши набір евристиків. Професіоналізм та майстерність формуються на основі цінностей, якими ви керуєтеся у навчанні.
