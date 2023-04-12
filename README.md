@@ -29,6 +29,10 @@ I hope this project will be useful for you and I invite you to participate in di
 
 Clean code is not written by following a set of rules. You don’t become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines.
 
+<br>
+<details>
+  <summary><h2>Перевод <img src="https://media.giphy.com/media/lxDOajE5iIaxBmq2WB/giphy.gif" width="32"></h2></summary>
+<hr>
 
 ## :information_source: Описание
 
@@ -57,6 +61,12 @@ Clean code is not written by following a set of rules. You don’t become a soft
 
 Невозможно написать чистый код, действуя по списку правил. Нельзя стать мастером, изучив набор эвристик. Профессионализм и мастерство формируются на основе ценностей, которыми вы руководствуетесь в обучении.
 
+</details>
+
+<details> 
+  <summary><h2>Переклад <img src="https://media.giphy.com/media/hVUK7LtvxX6KNYydAb/giphy.gif" width="30"></h2></summary>
+<hr>
+
 ## :information_source: Опис
 
 Натхненням для написання цих евристичних правил у вигляді вікі послужила книга Роберта Мартіна Чистий код. У свою чергу Роберт Мартін посилається на інші не менш значущі праці:
@@ -83,3 +93,5 @@ Clean code is not written by following a set of rules. You don’t become a soft
 ### :warning: Важливо
 
 Неможливо написати чистий код, діючи за списком правил. Не можна стати майстром, вивчивши набір евристиків. Професіоналізм та майстерність формуються на основі цінностей, якими ви керуєтеся у навчанні.
+
+</details>
