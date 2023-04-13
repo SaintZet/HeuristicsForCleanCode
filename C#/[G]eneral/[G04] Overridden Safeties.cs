@@ -4,14 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
-#pragma warning disable // Отключаем все предупреждения компилятора
+#pragma warning disable // Disable all compiler warnings
 
-        // Код, в котором возможно будут предупреждения компилятора
-        int unusedVariable; // Переменная не используется
+        // Code that may contain compiler warnings
+        int unusedVariable; // Variable is not used
 
-#pragma warning restore // Включаем все предупреждения компилятора
+#pragma warning restore // Turn on all compiler warnings
 
-        Console.WriteLine("Программа завершена.");
+        Console.WriteLine("The program has ended.");
     }
 }
 
