@@ -1,29 +1,32 @@
-# Heuristics for "Clear Code" 
-## :exclamation: *All heuristic rules on [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
+# Heuristics for "Clean Code" 
+## :exclamation: *All heuristic rules in [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
 
-### :information_source: Description
+### :bulb: Usage
 
-The inspiration for writing these heuristics as a wiki format was *Robert C. Martin* "Clean Code" . In turn, Robert Martin refers to another works: 
+The purpose of this knowledge library is to **structure** and **quickly access** various "[code smell](https://en.wikipedia.org/wiki/Code_smell)" and methods of dealing with them.<br />
+I've shortened the information a bit so that it can be referred to as a hint and referenced without using a different context.<br />
+<br />
+One of the advantages of this project is the ability to copy links to specific rules or code smells.<br />
+You can use thise links in private correspondence with colleagues, in comments on pull requests, in forums, or anywhere else.<br />
+For example in your amazing readme file without [too much information](https://github.com/SaintZet/HeuristicsForCleanCode/wiki/%5BG%5Deneral#g08-too-much-information) :smile: <br />
+<br />
+Most of the rules are illustrated with code examples. You can view the code without rules, each file is signed with the name of the rule and contain comments.<br />
+To the extent possible, these rules will be further supported by code examples. And perhaps personal observations.<br />
+<br />
+I hope this project will be useful for you and I invite you to participate in discussions, create issues and contribute your examples.
+
+### :information_source: Acknowledgment
+
+The inspiration for writing these heuristics in a wiki format was *Robert C. Martin* "Clean Code". In turn, Robert Martin refers to other works: 
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
 - The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
-- Design Patterns: Elements of Reusable Object Oriented Software, Gamma et al., Addison-Wesley, 1996.
+- Design Patterns: Elements of Reusable Object-Oriented Software, Gamma et al., Addison-Wesley, 1996.
 - Smalltalk Best Practice Patterns, Kent Beck, Prentice Hall, 1997. 
 - Implementation Patterns, Kent Beck, Addison-Wesley, 2008.
 - Agile Software Development: Principles, Patterns, and Practices, Robert C. Martin, Prentice Hall, 2002.
 - Domain Driven Design, Eric Evans, Addison-Wesley, 2003.<br />
 
 I am immensely grateful to these people for their work.<br />
-
-
-### :bulb: Usage
-
-The purpose of this knowledge library is to **structure** and **quickly access** various "[code smell](https://en.wikipedia.org/wiki/Code_smell)".<br />
-I've shortened the information a bit so that it can be referred to as a hint and referenced without using a different context.<br />
-You can use links to specific rules or code smells in private correspondence with colleagues, in comments on pull requests, in forums, or anywhere else.<br />
-<br />
-To the extent possible, these rules will be supported by code examples. And maybe personal observations.<br />
-<br />
-I hope this project will be useful for you and I invite you to participate in discussions, create issues and contribute your examples.
 
 ### :warning: Important
 
@@ -35,7 +38,23 @@ Clean code is not written by following a set of rules. You don’t become a soft
 <hr>
 
 ### :exclamation: *All heuristic rules on [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
-### :information_source: Описание
+
+### :bulb: Применение
+
+Целью данной библиотеки знаний является **структурированный** и **быстрый доступ** к различным "[запахам кода](https://ru.wikipedia.org/wiki/Код_с_запашком)" и методов борьбы с ними. <br />
+Я немного ужал информацию для того, что бы к ней можно было обратиться как к подсказке и ссылаться на нее не используя другой контекст.<br />
+<br />
+Одним из преимуществ этого проекта является возможность копирования ссылок на определенные правила или запахи кода.<br />
+Вы можете использовать эти ссылки в личной переписке с коллегами, в комментариях к пулл-реквестам, на форумах или где-либо еще.<br />
+Например, в вашем прекрасном файле readme без [лишней информации](https://github.com/SaintZet/HeuristicsForCleanCode/wiki/%5BG%5Deneral#g08-too-much-information) :smile:<br />
+
+<br />
+Большая часть правил проиллюстрированы примерами кода. Вы можете просматривать код и без правил, каждый файл подписан именем правила и содержит комментарии.<br />
+По мере возможности, данные правила будут еще больше подкрепляться примерами кода. И возможно, личными наблюдениями. <br />
+<br />
+Я надеюсь вам этот проект пригодиться и приглашаю участвовать в обсуждениях, создании issues и контребьютить свои примеры. 
+
+### :information_source: Благодарность
 
 Вдохновением для написания этих эвристических правил в виде вики послужила книга *Роберта Мартина* "Чистый код". В свою очередь Роберт Мартин ссылается на другие не менее значимые труды:
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
@@ -48,16 +67,6 @@ Clean code is not written by following a set of rules. You don’t become a soft
 
 Я безмерно благодарен этим людям за их работу.<br />
 
-### :bulb: Применение
-
-Целью данной библиотеки знаний является **структурированный** и **быстрый доступ** к различным "[запахам кода](https://ru.wikipedia.org/wiki/Код_с_запашком)". <br />
-Я немного ужал информацию для того, что бы к ней можно было обратиться как к подсказке и ссылаться на нее не используя другой контекст.<br />
-Вы можете использовать ссылки  на конкретные правила или запахи кода в личных переписках с коллегами, в комменатриях к пул реквестам, на форумах или где либо ещё.<br />
-<br />
-По мере возможности, данные правила будут подкрепляться примерами кода. И возможно, личными наблюдениями. <br />
-<br />
-Я надеюсь вам этот проект пригодиться и приглашаю участвовать в обсуждениях, создании issues и контребьютить свои примеры. 
-
 ### :warning: Важно
 
 Невозможно написать чистый код, действуя по списку правил. Нельзя стать мастером, изучив набор эвристик. Профессионализм и мастерство формируются на основе ценностей, которыми вы руководствуетесь в обучении.
@@ -68,8 +77,23 @@ Clean code is not written by following a set of rules. You don’t become a soft
   <summary><h2>Переклад <img src="https://media.giphy.com/media/hVUK7LtvxX6KNYydAb/giphy.gif" width="30"></h2></summary>
 <hr>
 
-### :exclamation: *All heuristic rules on [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
-### :information_source: Опис
+### :exclamation: *Всі евристичні правила в [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
+
+### :bulb: Застосування
+
+Метою даної бібліотеки знань є **структурований** та **швидкий доступ** до різних "[запахів коду](https://uk.wikipedia.org/wiki/Запахи_коду)" та методів бородьби з ними. <br />
+Я трохи зтиснув інформацію для того, щоб до неї можна було звернутися як до підказки та посилатися на неї не використовуючи інший контекст.<br />
+<br />
+Однією з переваг цього проекту є можливість копіювати посилання на конкретні правила або запахи коду.<br />
+Ви можете використовувати ці посилання в приватному листуванні з колегами, в коментарях до запитів на отримання, на форумах або де завгодно.<br />
+Наприклад, у вашому дивовижному файлі readme без [зайвої інформації](https://github.com/SaintZet/HeuristicsForCleanCode/wiki/%5BG%5Deneral#g08-too-much-information)<br />
+<br />
+Більшість правил проілюстровані прикладами коду. Ви можете переглядати код без правил, кожен файл підписаний ім'ям правила і містить коментарі.<br />
+У міру можливості дані правила будуть ще більше підкріплюватися прикладами коду. І можливо, особистими спостереженнями. <br />
+<br />
+Я сподіваюся вам цей проект статане в нагоді також запрошую брати участь в обговореннях, створенні issues та контреб'ютити свої приклади.
+
+### :information_source: Подяка
 
 Натхненням для написання цих евристичних правил у вигляді вікі послужила книга *Роберта Мартіна* "Чистий код". У свою чергу Роберт Мартін посилається на інші не менш важливі праці:
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
@@ -82,18 +106,8 @@ Clean code is not written by following a set of rules. You don’t become a soft
 
 Я безмежно вдячний цим людям за їх працю.<br />
 
-### :bulb: Застосування
-
-Метою даної бібліотеки знань є **структурований** та **швидкий доступ** до різних "[запахів коду](https://uk.wikipedia.org/wiki/Запахи_коду)". <br />
-Я трохи втиснув інформацію для того, щоб до неї можна було звернутися як до підказки та посилатися на неї не використовуючи інший контекст.<br />
-Ви можете використовувати посилання на конкретні правила або запахи коду в особистих листуваннях з колегами, у комменатріях до пул реквестів, на форумах або деінде.<br />
-<br />
-У міру можливості дані правила будуть підкріплюватися прикладами коду. І можливо, особистими спостереженнями. <br />
-<br />
-Я сподіваюся вам цей проект статане в нагоді також запрошую брати участь в обговореннях, створенні issues та контреб'ютити свої приклади.
-
 ### :warning: Важливо
 
-Неможливо написати чистий код, діючи за списком правил. Не можна стати майстром, вивчивши набір еврістик. Професіоналізм та майстерність формуються на основі цінностей, якими ви керуєтеся у навчанні.
+Неможливо написати чистий код, діючи за списком правил. Не можна стати майстром, вивчивши набір евристик. Професіоналізм та майстерність формуються на основі цінностей, якими ви керуєтеся у навчанні.
 
 </details>
