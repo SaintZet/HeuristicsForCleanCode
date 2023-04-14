@@ -4,6 +4,8 @@
 ### :bulb: Usage
 
 The purpose of this knowledge library is to **structure** and **quickly access** various "[code smell](https://en.wikipedia.org/wiki/Code_smell)" and methods of dealing with them.<br />
+<br />
+Idea of creating this repository came to me while reading Robert Martin's "*Clean Code*". I realized that I would like to have all these rules at my fingertips in a convenient format.<br />
 I've shortened the information a bit so that it can be referred to as a hint and referenced without using a different context.<br />
 <br />
 One of the advantages of this project is the ability to copy links to specific rules or code smells.<br />
@@ -17,7 +19,7 @@ I hope this project will be useful for you and I invite you to participate in di
 
 ### :information_source: Acknowledgment
 
-The inspiration for writing these heuristics in a wiki format was *Robert C. Martin* "Clean Code". In turn, Robert Martin refers to other works: 
+The inspiration for writing these heuristics in a wiki format was Robert C. Martin "*Clean Code*". In turn, Robert Martin refers to other works: 
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
 - The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
 - Design Patterns: Elements of Reusable Object-Oriented Software, Gamma et al., Addison-Wesley, 1996.
@@ -42,6 +44,8 @@ Clean code is not written by following a set of rules. You don’t become a soft
 ### :bulb: Применение
 
 Целью данной библиотеки знаний является **структурированный** и **быстрый доступ** к различным "[запахам кода](https://ru.wikipedia.org/wiki/Код_с_запашком)" и методов борьбы с ними. <br />
+<br />
+Идея создания этого репозитория пришла мне, когда я читал "*Чистый код*" Роберта Мартина. Я понял, что хотел бы иметь все эти правила под рукой в удобном формате.<br />
 Я немного ужал информацию для того, что бы к ней можно было обратиться как к подсказке и ссылаться на нее не используя другой контекст.<br />
 <br />
 Одним из преимуществ этого проекта является возможность копирования ссылок на определенные правила или запахи кода.<br />
@@ -55,7 +59,7 @@ Clean code is not written by following a set of rules. You don’t become a soft
 
 ### :information_source: Благодарность
 
-Вдохновением для написания этих эвристических правил в виде вики послужила книга *Роберта Мартина* "Чистый код". В свою очередь Роберт Мартин ссылается на другие не менее значимые труды:
+Вдохновением для написания этих эвристических правил в виде вики послужила книга Роберта Мартина "*Чистый код*". В свою очередь Роберт Мартин ссылается на другие не менее значимые труды:
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
 - The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
 - Design Patterns: Elements of Reusable Object Oriented Software, Gamma et al., Addison-Wesley, 1996.
@@ -81,6 +85,8 @@ Clean code is not written by following a set of rules. You don’t become a soft
 ### :bulb: Застосування
 
 Метою даної бібліотеки знань є **структурований** та **швидкий доступ** до різних "[запахів коду](https://uk.wikipedia.org/wiki/Запахи_коду)" та методів бородьби з ними. <br />
+<br />
+Ідея створення цього репозиторію прийшла до мене, коли я читав "*Чистий код*" Роберта Мартина. Я зрозумів, що хотів би мати всі ці правила під рукою в зручному форматі.<br />
 Я трохи зтиснув інформацію для того, щоб до неї можна було звернутися як до підказки та посилатися на неї не використовуючи інший контекст.<br />
 <br />
 Однією з переваг цього проекту є можливість копіювати посилання на конкретні правила або запахи коду.<br />
@@ -94,7 +100,7 @@ Clean code is not written by following a set of rules. You don’t become a soft
 
 ### :information_source: Подяка
 
-Натхненням для написання цих евристичних правил у вигляді вікі послужила книга *Роберта Мартіна* "Чистий код". У свою чергу Роберт Мартін посилається на інші не менш важливі праці:
+Натхненням для написання цих евристичних правил у вигляді вікі послужила книга Роберта Мартіна "*Чистий код*". У свою чергу Роберт Мартін посилається на інші не менш важливі праці:
 - Refactoring: Improving the Design of Existing Code, Martin Fowler et al., Addison-Wesley, 1999.
 - The Pragmatic Programmer, Andrew Hunt, Dave Thomas, Addison-Wesley, 2000.
 - Design Patterns: Elements of Reusable Object Oriented Software, Gamma et al., Addison-Wesley, 1996.
