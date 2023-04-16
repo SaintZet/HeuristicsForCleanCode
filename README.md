@@ -1,5 +1,5 @@
 <p align="center">
- <img src="Media/logo.png" width="900">
+ <img src="Media/repository-logo.png" width="900">
 </p>
 
 ## :exclamation: *All heuristic rules in [GitHub Wiki](https://github.com/SaintZet/HeuristicsForClearCode/wiki)* :exclamation:
